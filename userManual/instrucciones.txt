@@ -1,0 +1,7 @@
+1. Abrir mysqlWorkbench
+2. conectarse con el respeectivo usuario, en mi caso- user:root, pass:135678
+3. crear un nuevo esquema con el nombre: peliculasdb
+4. dar click en abrir sql
+5. hacer click en ejecutar este script
+6. se crean las tablas.
+7. en el archivo .properties, modificar el respectivo usuario y contraseña que se usó para la creación de la base de datos.
